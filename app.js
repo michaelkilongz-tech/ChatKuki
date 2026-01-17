@@ -3,7 +3,7 @@ console.log("🚀 DeepSeek AI Chat Loading...");
 
 class DeepSeekChat {
     constructor() {
-        this.backendUrl = 'https://eiho-chat.vercel.app/api/chat';
+        this.backendUrl = 'https://chat-kuki-git-main-michael-kilongs-projects.vercel.app';
         this.isTyping = false;
         
         // Initialize when DOM is ready
